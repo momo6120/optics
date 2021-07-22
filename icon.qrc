@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/window">
+        <file>window.png</file>
+    </qresource>
+    <qresource prefix="/optic">
+        <file>optpic/002.png</file>
+        <file>optpic/003.png</file>
+        <file>optpic/004.png</file>
+        <file>optpic/005.png</file>
+        <file>optpic/006.jpg</file>
+        <file>optpic/007.png</file>
+        <file>optpic/2.png</file>
+        <file>optpic/12.png</file>
+    </qresource>
+</RCC>
